@@ -1,0 +1,21 @@
+[1.978s] Invoking command in '/home/vlad/Documents/ros2_ws/src/turtle': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/vlad/Documents/ros2_ws/build/turtle/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/vlad/Documents/ros2_ws/install/turtle/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/turtle build --build-base /home/vlad/Documents/ros2_ws/build/turtle/build install --record /home/vlad/Documents/ros2_ws/build/turtle/install.log --install-scripts $base/lib/turtle --single-version-externally-managed install_data
+[2.494s] running egg_info
+[2.528s] writing ../../build/turtle/turtle.egg-info/PKG-INFO
+[2.528s] writing dependency_links to ../../build/turtle/turtle.egg-info/dependency_links.txt
+[2.529s] writing entry points to ../../build/turtle/turtle.egg-info/entry_points.txt
+[2.529s] writing requirements to ../../build/turtle/turtle.egg-info/requires.txt
+[2.529s] writing top-level names to ../../build/turtle/turtle.egg-info/top_level.txt
+[2.597s] reading manifest file '../../build/turtle/turtle.egg-info/SOURCES.txt'
+[2.599s] writing manifest file '../../build/turtle/turtle.egg-info/SOURCES.txt'
+[2.599s] running build
+[2.599s] running build_py
+[2.600s] running install
+[2.611s] running install_lib
+[2.646s] running install_data
+[2.647s] running install_egg_info
+[2.683s] removing '/home/vlad/Documents/ros2_ws/install/turtle/lib/python3.12/site-packages/turtle-0.0.0-py3.12.egg-info' (and everything under it)
+[2.683s] Copying ../../build/turtle/turtle.egg-info to /home/vlad/Documents/ros2_ws/install/turtle/lib/python3.12/site-packages/turtle-0.0.0-py3.12.egg-info
+[2.686s] running install_scripts
+[2.921s] Installing turtle script to /home/vlad/Documents/ros2_ws/install/turtle/lib/turtle
+[2.922s] writing list of installed files to '/home/vlad/Documents/ros2_ws/build/turtle/install.log'
+[2.979s] Invoked command in '/home/vlad/Documents/ros2_ws/src/turtle' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/vlad/Documents/ros2_ws/build/turtle/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/vlad/Documents/ros2_ws/install/turtle/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/turtle build --build-base /home/vlad/Documents/ros2_ws/build/turtle/build install --record /home/vlad/Documents/ros2_ws/build/turtle/install.log --install-scripts $base/lib/turtle --single-version-externally-managed install_data

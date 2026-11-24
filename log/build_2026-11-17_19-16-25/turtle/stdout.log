@@ -1,0 +1,32 @@
+running egg_info
+creating ../../build/turtle/turtle.egg-info
+writing ../../build/turtle/turtle.egg-info/PKG-INFO
+writing dependency_links to ../../build/turtle/turtle.egg-info/dependency_links.txt
+writing entry points to ../../build/turtle/turtle.egg-info/entry_points.txt
+writing requirements to ../../build/turtle/turtle.egg-info/requires.txt
+writing top-level names to ../../build/turtle/turtle.egg-info/top_level.txt
+writing manifest file '../../build/turtle/turtle.egg-info/SOURCES.txt'
+reading manifest file '../../build/turtle/turtle.egg-info/SOURCES.txt'
+writing manifest file '../../build/turtle/turtle.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/vlad/Documents/ros2_ws/build/turtle/build
+creating /home/vlad/Documents/ros2_ws/build/turtle/build/lib
+creating /home/vlad/Documents/ros2_ws/build/turtle/build/lib/turtle
+copying turtle/__init__.py -> /home/vlad/Documents/ros2_ws/build/turtle/build/lib/turtle
+running install
+running install_lib
+creating /home/vlad/Documents/ros2_ws/install/turtle/lib/python3.12/site-packages/turtle
+copying /home/vlad/Documents/ros2_ws/build/turtle/build/lib/turtle/__init__.py -> /home/vlad/Documents/ros2_ws/install/turtle/lib/python3.12/site-packages/turtle
+byte-compiling /home/vlad/Documents/ros2_ws/install/turtle/lib/python3.12/site-packages/turtle/__init__.py to __init__.cpython-312.pyc
+running install_data
+creating /home/vlad/Documents/ros2_ws/install/turtle/share/ament_index
+creating /home/vlad/Documents/ros2_ws/install/turtle/share/ament_index/resource_index
+creating /home/vlad/Documents/ros2_ws/install/turtle/share/ament_index/resource_index/packages
+copying resource/turtle -> /home/vlad/Documents/ros2_ws/install/turtle/share/ament_index/resource_index/packages
+copying package.xml -> /home/vlad/Documents/ros2_ws/install/turtle/share/turtle
+running install_egg_info
+Copying ../../build/turtle/turtle.egg-info to /home/vlad/Documents/ros2_ws/install/turtle/lib/python3.12/site-packages/turtle-0.0.0-py3.12.egg-info
+running install_scripts
+Installing turtle script to /home/vlad/Documents/ros2_ws/install/turtle/lib/turtle
+writing list of installed files to '/home/vlad/Documents/ros2_ws/build/turtle/install.log'
